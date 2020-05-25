@@ -62,4 +62,4 @@ docker-compose up
 
 Then we can access the ownCloud server website, built under Docker
 
-yml file for the project 
+yml file for the project https://github.com/stygian-lunar/Mydockerprojecttrainingundervimaldaga/blob/master/mydockerproject.yml
